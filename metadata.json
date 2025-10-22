@@ -1,0 +1,5 @@
+{
+  "name": "VPN Lite",
+  "description": "A sleek and modern user interface for a VPN application, simulating connections to various global servers with real-time speed visualizations.",
+  "requestFramePermissions": []
+}
